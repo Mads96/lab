@@ -692,7 +692,11 @@ p {
 .no-se-ve{
   visibility: hidden;
 }
-
+.cerrar{
+  position: absolute;
+  top: 3px;
+  right: 5px;
+}
 
 /*
 codigo bloqueo:jm051829;
